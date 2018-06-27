@@ -26,6 +26,6 @@ hope to minimize the empirical risk according to the hinge-loss function.
  * matplotlib (to plot the resulting hyperplane)
 
 ### Recommended reads:
- * (Wikipedia on Gauss-Seidel method)[https://en.wikipedia.org/wiki/Gauss%E2%80%93Seidel_method]
- * (Wikipedia on Perceptrons)[https://en.wikipedia.org/wiki/Perceptron]
- * (Wikipedia on Gauss-Seidel SOR)[https://en.wikipedia.org/wiki/Successive_over-relaxation]
+ * [Wikipedia on Gauss-Seidel method](https://en.wikipedia.org/wiki/Gauss%E2%80%93Seidel_method)
+ * [Wikipedia on Perceptrons](https://en.wikipedia.org/wiki/Perceptron)
+ * [Wikipedia on Gauss-Seidel SOR](https://en.wikipedia.org/wiki/Successive_over-relaxation)
