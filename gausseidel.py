@@ -79,6 +79,6 @@ if __name__ == '__main__':
 	b  = np.array([20,8,12], dtype='double')
 	x0 = np.array([1.5,2,1], dtype='double')
 
-	xf = gs(A,b,x0)
+	xf = gauss_seidel(A,b,x0)
 	print('x = {0}'.format(xf))
 	print('Ax = {0}'.format(A @ xf))
