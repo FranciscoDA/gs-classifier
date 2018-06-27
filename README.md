@@ -13,3 +13,10 @@ classifier:
  * If the A matrix has zeros on the main diagonal, some weights won't be updated for that iteration
  * The training data is tiled to form problems with a square A matrix
 
+Dependencies:
+ * numpy
+ * python 3.6
+
+Optional:
+ * jupyter (to try the notebook)
+ * matplotlib (to plot the resulting hyperplane)
