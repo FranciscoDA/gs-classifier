@@ -20,3 +20,6 @@ Dependencies:
 Optional:
  * jupyter (to try the notebook)
  * matplotlib (to plot the resulting hyperplane)
+
+It is possible for the problem to converge even in linearly inseparable problems:
+![classifier-plot](https://raw.githubusercontent.com/FranciscoDA/gs-classifier/master/README_pic.png)
